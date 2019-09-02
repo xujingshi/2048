@@ -5,25 +5,27 @@ Finish the game in terminal. The program does not need to calculate scores.
 
 Input: W(Up) S(Down) A(Left) D(Right), <CR> to exit.
 
-2	4	2	2
+2	  4	  2	  2
 
-2	0	0	2
+2	  0	  0	  2
 
-0	0	0	0
+0  	0	  0  	0
 
-2	0	2	0
+2	  0	  2	  0
 
 operator: a
 
-2	8	0	0
+2	  8	  0	  0
 
-4	0	0	0
+4	  0  	0  	0
 
-0	0	0	0
+0  	0  	0  	0
 
-4	2	0	0
+4	  2  	0  	0
 
 operator:
+...
+
 
 What you need to do:
 1. Understand the mechanics of the 2048.
